@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="fe6aa467-9377-4a4b-825c-368247561a6e" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Parrot/Parrot.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Parrot/ParrotTypeEnum.php" />
       <change beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/ParrotTest.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Calcolatrice.php" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.php" afterPath="" />
@@ -38,8 +41,8 @@
       <file leaf-file-name="Parrot.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Parrot/Parrot.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="67" column="32" lean-forward="true" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
+            <state relative-caret-position="18">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -254,7 +257,7 @@
       <workItem from="1517777962435" duration="1945000" />
       <workItem from="1517818543293" duration="1317000" />
       <workItem from="1517819936545" duration="4740000" />
-      <workItem from="1517826912785" duration="25900000" />
+      <workItem from="1517826912785" duration="25975000" />
     </task>
     <servers />
   </component>
@@ -291,7 +294,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38247000" />
+    <option name="totallyTimeSpent" value="38322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -507,8 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Parrot/Parrot.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="67" column="32" lean-forward="true" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
+        <state relative-caret-position="18">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding />
         </state>
       </provider>
